@@ -46,7 +46,7 @@
     "cuke-tap": "github:pietgeursen/cuke-tap",
     "dependency-check": "^2.6.0",
     "domready": "^1.0.8",
-    "envify": "^3.4.1",
+    "envify": "^4.1.0",
     "feathers": "^2.0.1",
     "feathers-authentication": "^0.7.10",
     "feathers-hooks": "^1.5.7",
