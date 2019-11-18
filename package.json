@@ -49,7 +49,7 @@
     "envify": "^3.4.1",
     "feathers": "^2.0.1",
     "feathers-authentication": "^0.7.10",
-    "feathers-hooks": "^1.5.7",
+    "feathers-hooks": "^2.1.2",
     "feathers-socketio": "^1.4.1",
     "get-form-data": "^1.2.5",
     "gh-pages": "^0.11.0",
